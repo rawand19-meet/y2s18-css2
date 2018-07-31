@@ -15,4 +15,25 @@ p {
 
 a {
     color:red;
+
 }
+a:hover{
+	color:blue;
+
+}
+#imp_paragraph:hover{
+	background-color:yellow;
+	font-size: 40px;
+
+}
+.less_imp:hover{
+	background-color: blue;
+
+}
+
+
+
+
+
+
+
